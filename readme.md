@@ -4,7 +4,7 @@ Prevents annoying popups and surveys when you deactivate WordPress plugins. No s
 
 As an extra bonus, the plugin will append a "Disabled Deactivation Script" in red next to any plugins on the plugin list to let you know it disabled some JavaScript event on the deactivation link (likely a popup or survey).
 
-![example of plugin survey](https://photos-3.dropbox.com/t/2/AAAVn5MHEWa74CTLtibZU_obppQfw9H9MAHZLApSOXTzLQ/12/14006840/png/32x32/1/_/1/2/Screenshot%202018-05-23%2012.04.39.png/EPnHtAoYv4kMIAcoBw/d2yufc18iJHTFIucTk8A54eRDcoYF2v5rePJbT2h4D4?preserve_transparency=1&size=1600x1200&size_mode=3)
+![example of plugin survey](https://user-images.githubusercontent.com/721134/40437545-a08cff2a-5e83-11e8-8bb3-ec5abc1aca4d.png)
 
 ## Installation
 
