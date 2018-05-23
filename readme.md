@@ -23,7 +23,7 @@ As an extra bonus, the plugin will append a "Disabled Deactivation Script" in re
 
 When you deactivate some WordPress plugins, you get a popup before the plugin is deactivated asking you why you are deactivating the plugin. This is a survey for use by the plugin author or company. Usually you'll only find this in plugin companies selling paid plugins, but they are slowly becoming more common.
 
-###Why would you want to disable them?
+### Why would you want to disable them?
 
 If you are a developer this is especially annoying if you are deactiving a plugin on a testing site often (for example).
 
