@@ -29,7 +29,7 @@ If you are a developer this is especially annoying if you are deactiving a plugi
 
 
 ## Authors
-Chris Wilcoxson - [slushman](https://www.slushman.com/)
+David Bisset - [dimensionmedia](http://www.davidbisset.com/)
 
 
 ## License
